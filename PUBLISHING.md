@@ -17,7 +17,7 @@ git commit -m "Initial commit: Customer Support Builder skill"
 
 ```bash
 # Create repo on GitHub first, then:
-git remote add origin https://github.com/yourusername/customer-support-builder.git
+git remote add origin https://github.com/nbashaw/claude-cs.git
 git branch -M main
 git push -u origin main
 ```
@@ -26,7 +26,7 @@ git push -u origin main
 
 ```bash
 cd ~/.claude/skills
-git clone https://github.com/yourusername/customer-support-builder.git
+git clone https://github.com/nbashaw/claude-cs.git customer-support-builder
 ```
 
 Then invoke with `/customer-support-builder` in Claude Code.

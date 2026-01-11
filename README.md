@@ -41,7 +41,7 @@ By the end, you'll have:
 1. Clone this repository:
    ```bash
    cd ~/.claude/skills
-   git clone https://github.com/yourusername/claude-cs customer-support-builder
+   git clone https://github.com/nbashaw/claude-cs customer-support-builder
    ```
 
 2. Invoke the skill in Claude Code:
@@ -152,7 +152,7 @@ This skill can help you integrate with:
 
 ## Real-World Example
 
-The [Lex support skill](https://github.com/yourusername/lex-csbot) was built using this approach:
+The [Lex support skill](https://github.com/nbashaw/lex) was built using this approach:
 
 - **15 scripts** for HelpScout, Stripe, and PostgreSQL
 - **6 response templates** for common scenarios
@@ -234,7 +234,7 @@ MIT
 
 ## Credits
 
-Created by [Your Name] for the Claude Code community.
+Created by [Nick Bashaw](https://github.com/nbashaw) for the Claude Code community.
 
 Inspired by real-world support automation at [Lex](https://lex.page).
 

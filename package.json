@@ -17,16 +17,16 @@
     "support-automation",
     "ai-assistant"
   ],
-  "author": "Your Name",
+  "author": "Nick Bashaw",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/customer-support-builder.git"
+    "url": "https://github.com/nbashaw/claude-cs.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/customer-support-builder/issues"
+    "url": "https://github.com/nbashaw/claude-cs/issues"
   },
-  "homepage": "https://github.com/yourusername/customer-support-builder#readme",
+  "homepage": "https://github.com/nbashaw/claude-cs#readme",
   "devDependencies": {
     "@types/node": "^20.0.0",
     "typescript": "^5.0.0",
